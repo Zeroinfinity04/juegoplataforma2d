@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 0dae85832445ef5489a2fc62610257b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7135545759005215297
+    second: Reaper-Sheet_0
+  - first:
+      213: 9173751447533986082
+    second: Reaper-Sheet_1
+  - first:
+      213: 3195973822007896014
+    second: Reaper-Sheet_2
+  - first:
+      213: 1404050665808615678
+    second: Reaper-Sheet_3
+  - first:
+      213: -543434756680846535
+    second: Reaper-Sheet_4
+  - first:
+      213: -3022114602445372938
+    second: Reaper-Sheet_5
+  - first:
+      213: 6971722988593933780
+    second: Reaper-Sheet_6
+  - first:
+      213: -2587090243722973933
+    second: Reaper-Sheet_7
+  - first:
+      213: -3664903401313271602
+    second: Reaper-Sheet_8
+  - first:
+      213: -8793642247462055713
+    second: Reaper-Sheet_9
+  - first:
+      213: 8514491390062699301
+    second: Reaper-Sheet_10
+  - first:
+      213: 7711671028338218778
+    second: Reaper-Sheet_11
+  - first:
+      213: 7855649442537906336
+    second: Reaper-Sheet_12
+  - first:
+      213: -7428370381629815986
+    second: Reaper-Sheet_13
+  - first:
+      213: 8361110406540949431
+    second: Reaper-Sheet_14
+  - first:
+      213: -3994554264518150886
+    second: Reaper-Sheet_15
+  - first:
+      213: -9119736769620048520
+    second: Reaper-Sheet_16
+  - first:
+      213: 4135931130437978206
+    second: Reaper-Sheet_17
+  - first:
+      213: -675001762341442901
+    second: Reaper-Sheet_18
+  - first:
+      213: 6960307066651306440
+    second: Reaper-Sheet_19
+  - first:
+      213: -4305456021481964695
+    second: Reaper-Sheet_20
+  - first:
+      213: -5154971359317720566
+    second: Reaper-Sheet_21
+  - first:
+      213: -8222479454880328852
+    second: Reaper-Sheet_22
+  - first:
+      213: 831982563800164641
+    second: Reaper-Sheet_23
+  - first:
+      213: -7576577138684423094
+    second: Reaper-Sheet_24
+  - first:
+      213: -407146077885588566
+    second: Reaper-Sheet_25
+  - first:
+      213: 5071796984383846326
+    second: Reaper-Sheet_26
+  - first:
+      213: -2051892447090769717
+    second: Reaper-Sheet_27
+  - first:
+      213: 2727658677445460378
+    second: Reaper-Sheet_28
+  - first:
+      213: 5515817808212160718
+    second: Reaper-Sheet_29
+  - first:
+      213: 6567959316844296325
+    second: Reaper-Sheet_30
+  - first:
+      213: -1980838841466186447
+    second: Reaper-Sheet_31
+  - first:
+      213: -1885803043736540795
+    second: Reaper-Sheet_32
+  - first:
+      213: 675740463987996513
+    second: Reaper-Sheet_33
+  - first:
+      213: 3369752617973660118
+    second: Reaper-Sheet_34
+  - first:
+      213: 8783969618219422157
+    second: Reaper-Sheet_35
+  - first:
+      213: 2137064960877765045
+    second: Reaper-Sheet_36
+  - first:
+      213: 5064061923663108905
+    second: Reaper-Sheet_37
+  - first:
+      213: -6889950271698332626
+    second: Reaper-Sheet_38
+  - first:
+      213: -8923135251135334055
+    second: Reaper-Sheet_39
+  - first:
+      213: -6644897746094217237
+    second: Reaper-Sheet_40
+  - first:
+      213: -2833863629517326470
+    second: Reaper-Sheet_41
+  - first:
+      213: 196571472138156190
+    second: Reaper-Sheet_42
+  - first:
+      213: -3921641073691676447
+    second: Reaper-Sheet_43
+  - first:
+      213: 5110788648189941955
+    second: Reaper-Sheet_44
+  - first:
+      213: -922593125854893221
+    second: Reaper-Sheet_45
+  - first:
+      213: -3356604665925114957
+    second: Reaper-Sheet_46
+  - first:
+      213: 6879636908930437809
+    second: Reaper-Sheet_47
+  - first:
+      213: 6570109334074839482
+    second: Reaper-Sheet_48
+  - first:
+      213: 1862275495043140965
+    second: Reaper-Sheet_49
+  - first:
+      213: -6293053191078200866
+    second: Reaper-Sheet_50
+  - first:
+      213: 5921850218527186676
+    second: Reaper-Sheet_51
+  - first:
+      213: 1815012002306357433
+    second: Reaper-Sheet_52
+  - first:
+      213: -133388217304914308
+    second: Reaper-Sheet_53
+  - first:
+      213: -1928172749584763486
+    second: Reaper-Sheet_54
+  - first:
+      213: 765792336460488515
+    second: Reaper-Sheet_55
+  - first:
+      213: -7830056376719127633
+    second: Reaper-Sheet_56
+  - first:
+      213: 7507577466897760043
+    second: Reaper-Sheet_57
+  - first:
+      213: 5325665545230072218
+    second: Reaper-Sheet_58
+  - first:
+      213: 5227022476095859309
+    second: Reaper-Sheet_59
+  - first:
+      213: -6105786661956023123
+    second: Reaper-Sheet_60
+  - first:
+      213: 5305058779442668250
+    second: Reaper-Sheet_61
+  - first:
+      213: -3285312780822465329
+    second: Reaper-Sheet_62
+  - first:
+      213: 6398216703574454629
+    second: Reaper-Sheet_63
+  - first:
+      213: -669101598008659911
+    second: Reaper-Sheet_64
+  - first:
+      213: -5541097770887937051
+    second: Reaper-Sheet_65
+  - first:
+      213: 2895961920394979965
+    second: Reaper-Sheet_66
+  - first:
+      213: -3174649793151389211
+    second: Reaper-Sheet_67
+  - first:
+      213: -1471692522454340231
+    second: Reaper-Sheet_68
+  - first:
+      213: 2669562272475806595
+    second: Reaper-Sheet_69
+  - first:
+      213: 6012023017710656879
+    second: Reaper-Sheet_70
+  - first:
+      213: -8749449640912294539
+    second: Reaper-Sheet_71
+  - first:
+      213: -7055443729999570843
+    second: Reaper-Sheet_72
+  - first:
+      213: 8820967171289206376
+    second: Reaper-Sheet_73
+  - first:
+      213: -8784437734766971585
+    second: Reaper-Sheet_74
+  - first:
+      213: 2954711892294600760
+    second: Reaper-Sheet_75
+  - first:
+      213: 8954475479235535427
+    second: Reaper-Sheet_76
+  - first:
+      213: -7954496662492210745
+    second: Reaper-Sheet_77
+  - first:
+      213: -6068973294602078787
+    second: Reaper-Sheet_78
+  - first:
+      213: 1196325872104826579
+    second: Reaper-Sheet_79
+  - first:
+      213: 8440493659809824535
+    second: Reaper-Sheet_80
+  - first:
+      213: 716452192598250607
+    second: Reaper-Sheet_81
+  - first:
+      213: -3955615496373750592
+    second: Reaper-Sheet_82
+  - first:
+      213: -781203839987382530
+    second: Reaper-Sheet_83
+  - first:
+      213: -3164434811719874278
+    second: Reaper-Sheet_84
+  - first:
+      213: 8953575343414663719
+    second: Reaper-Sheet_85
+  - first:
+      213: 6134980790867031039
+    second: Reaper-Sheet_86
+  - first:
+      213: -2808732961427222935
+    second: Reaper-Sheet_87
+  - first:
+      213: 6195888407285878452
+    second: Reaper-Sheet_88
+  - first:
+      213: 7063407413068172806
+    second: Reaper-Sheet_89
+  - first:
+      213: -1235639056991903857
+    second: Reaper-Sheet_90
+  - first:
+      213: -5234885043188343816
+    second: Reaper-Sheet_91
+  - first:
+      213: 4238435067998823275
+    second: Reaper-Sheet_92
+  - first:
+      213: -6659900607871055364
+    second: Reaper-Sheet_93
+  - first:
+      213: -7430468696152763596
+    second: Reaper-Sheet_94
+  - first:
+      213: -8660891465505568826
+    second: Reaper-Sheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reaper-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a0d04ef0d860360800000000000000
+      internalID: 7135545759005215297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2212dff3656bf4f70800000000000000
+      internalID: 9173751447533986082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec76a3412416a5c20800000000000000
+      internalID: 3195973822007896014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 191
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85c2e34a03c7310800000000000000
+      internalID: 1404050665808615678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ff61d7f45578f0800000000000000
+      internalID: -543434756680846535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f109bae7ca4f06d0800000000000000
+      internalID: -3022114602445372938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde09fce1980c060800000000000000
+      internalID: 6971722988593933780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 159
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d630d512fc81cd0800000000000000
+      internalID: -2587090243722973933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 159
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec00a9426c5a32dc0800000000000000
+      internalID: -3664903401313271602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 159
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0182677f4b6f580800000000000000
+      internalID: -8793642247462055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 159
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5232fcbbecc892670800000000000000
+      internalID: 8514491390062699301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 159
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1755cc21fb550b60800000000000000
+      internalID: 7711671028338218778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 159
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0a7760c8fd40d60800000000000000
+      internalID: 7855649442537906336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 159
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e430ceebe7029e890800000000000000
+      internalID: -7428370381629815986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 159
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7f1bd9d91a80470800000000000000
+      internalID: 8361110406540949431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15bf5b7f0e7098c0800000000000000
+      internalID: -3994554264518150886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8758ab9f9bf207180800000000000000
+      internalID: -9119736769620048520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e584c353377c56930800000000000000
+      internalID: 4135931130437978206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa20e43979e1a6f0800000000000000
+      internalID: -675001762341442901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9646b566af79060800000000000000
+      internalID: 6960307066651306440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 129
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b308b4f82ff34c0800000000000000
+      internalID: -4305456021481964695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020e846cdcd578b0800000000000000
+      internalID: -5154971359317720566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6319e61082e3ed80800000000000000
+      internalID: -8222479454880328852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129a0a6dbbbcb8b00800000000000000
+      internalID: 831982563800164641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449e5b1c379ad690800000000000000
+      internalID: -7576577138684423094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab9fef9cc6895af0800000000000000
+      internalID: -407146077885588566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7b81b5c74a26640800000000000000
+      internalID: 5071796984383846326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 95
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc009d5d0b63683e0800000000000000
+      internalID: -2051892447090769717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 95
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9106a98d179ad520800000000000000
+      internalID: 2727658677445460378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 95
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec07240921f1c8c40800000000000000
+      internalID: 5515817808212160718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b8bb3334162b50800000000000000
+      internalID: 6567959316844296325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 95
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1359c119195a284e0800000000000000
+      internalID: -1980838841466186447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 95
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589abb58f1844d5e0800000000000000
+      internalID: -1885803043736540795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 95
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bc5c2f56b06900800000000000000
+      internalID: 675740463987996513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9334ff624c3ce20800000000000000
+      internalID: 3369752617973660118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1dacb04dde6e970800000000000000
+      internalID: 8783969618219422157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1ad0f524168ad10800000000000000
+      internalID: 2137064960877765045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b55803d79274640800000000000000
+      internalID: 5064061923663108905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24905f7bbaf160a0800000000000000
+      internalID: -6889950271698332626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ff4114c7aa2480800000000000000
+      internalID: -8923135251135334055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a243c4b498c3a0800000000000000
+      internalID: -6644897746094217237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7778bc1b081ca8d0800000000000000
+      internalID: -2833863629517326470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9835c166bc5ab200800000000000000
+      internalID: 196571472138156190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0b602a8388399c0800000000000000
+      internalID: -3921641073691676447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 107
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d579823b2de640800000000000000
+      internalID: 5110788648189941955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ba33da07a4233f0800000000000000
+      internalID: -922593125854893221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b36d1427d1fa61d0800000000000000
+      internalID: -3356604665925114957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2177c9151697f50800000000000000
+      internalID: 6879636908930437809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1520121a7bd2b50800000000000000
+      internalID: 6570109334074839482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d06fb22b128d910800000000000000
+      internalID: 1862275495043140965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93529f6759aa8a0800000000000000
+      internalID: -6293053191078200866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed1600663ae2250800000000000000
+      internalID: 5921850218527186676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b87a8cbcc7303910800000000000000
+      internalID: 1815012002306357433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7661528f1c162ef0800000000000000
+      internalID: -133388217304914308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a57963a911cd35e0800000000000000
+      internalID: -1928172749584763486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f917a9214a0aa00800000000000000
+      internalID: 765792336460488515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabcf56f53d065390800000000000000
+      internalID: -7830056376719127633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ffa26ede5403860800000000000000
+      internalID: 7507577466897760043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b9f7c89098e940800000000000000
+      internalID: 5325665545230072218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2da08f3d1a8840800000000000000
+      internalID: 5227022476095859309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0bcb7163e34ba0800000000000000
+      internalID: -6105786661956023123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26f3d3ada5f9940800000000000000
+      internalID: 5305058779442668250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b603ae693862d0800000000000000
+      internalID: -3285312780822465329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b68451380bc850800000000000000
+      internalID: 6398216703574454629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303c0444afd6b6f0800000000000000
+      internalID: -669101598008659911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e304847fe01a13b0800000000000000
+      internalID: -5541097770887937051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a633ce506803820800000000000000
+      internalID: 2895961920394979965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 63
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1b1f845d061f3d0800000000000000
+      internalID: -3174649793151389211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97da28cb27f739be0800000000000000
+      internalID: -1471692522454340231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b74bc2eb03c0520800000000000000
+      internalID: 2669562272475806595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d9d10e41ffe6350800000000000000
+      internalID: 6012023017710656879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de04d78e5b39680800000000000000
+      internalID: -8749449640912294539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685e941f47061e90800000000000000
+      internalID: -7055443729999570843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e431428ee5a6a70800000000000000
+      internalID: 8820967171289206376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357da31c68671680800000000000000
+      internalID: -8784437734766971585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83887d1bfce310920800000000000000
+      internalID: 2954711892294600760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a7c96100b44c70800000000000000
+      internalID: 8954475479235535427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c91f112e63fb9190800000000000000
+      internalID: -7954496662492210745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db539ef71fca6cba0800000000000000
+      internalID: -6068973294602078787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ea62da043a9010800000000000000
+      internalID: 1196325872104826579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fb6e19348a22570800000000000000
+      internalID: 8440493659809824535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f645e56297951f900800000000000000
+      internalID: 716452192598250607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4bc9ee9a4da19c0800000000000000
+      internalID: -3955615496373750592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6816c1f3b9825f0800000000000000
+      internalID: -781203839987382530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a198e8cfd4ba514d0800000000000000
+      internalID: -3164434811719874278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a5de5365d714c70800000000000000
+      internalID: 8953575343414663719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff379775684d32550800000000000000
+      internalID: 6134980790867031039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e033db0406509d0800000000000000
+      internalID: -2808732961427222935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 8
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be4c30eda73cf550800000000000000
+      internalID: 6195888407285878452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 13
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e0acf5e93460260800000000000000
+      internalID: 7063407413068172806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 19
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f166903d02adee0800000000000000
+      internalID: -1235639056991903857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbd0c0f9c3f957b0800000000000000
+      internalID: -5234885043188343816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63e0a7fc32f1da30800000000000000
+      internalID: 4238435067998823275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9007ccea74393a0800000000000000
+      internalID: -6659900607871055364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4339723d61ca1e890800000000000000
+      internalID: -7430468696152763596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reaper-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7045879155ec780800000000000000
+      internalID: -8660891465505568826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reaper-Sheet_0: 7135545759005215297
+      Reaper-Sheet_1: 9173751447533986082
+      Reaper-Sheet_10: 8514491390062699301
+      Reaper-Sheet_11: 7711671028338218778
+      Reaper-Sheet_12: 7855649442537906336
+      Reaper-Sheet_13: -7428370381629815986
+      Reaper-Sheet_14: 8361110406540949431
+      Reaper-Sheet_15: -3994554264518150886
+      Reaper-Sheet_16: -9119736769620048520
+      Reaper-Sheet_17: 4135931130437978206
+      Reaper-Sheet_18: -675001762341442901
+      Reaper-Sheet_19: 6960307066651306440
+      Reaper-Sheet_2: 3195973822007896014
+      Reaper-Sheet_20: -4305456021481964695
+      Reaper-Sheet_21: -5154971359317720566
+      Reaper-Sheet_22: -8222479454880328852
+      Reaper-Sheet_23: 831982563800164641
+      Reaper-Sheet_24: -7576577138684423094
+      Reaper-Sheet_25: -407146077885588566
+      Reaper-Sheet_26: 5071796984383846326
+      Reaper-Sheet_27: -2051892447090769717
+      Reaper-Sheet_28: 2727658677445460378
+      Reaper-Sheet_29: 5515817808212160718
+      Reaper-Sheet_3: 1404050665808615678
+      Reaper-Sheet_30: 6567959316844296325
+      Reaper-Sheet_31: -1980838841466186447
+      Reaper-Sheet_32: -1885803043736540795
+      Reaper-Sheet_33: 675740463987996513
+      Reaper-Sheet_34: 3369752617973660118
+      Reaper-Sheet_35: 8783969618219422157
+      Reaper-Sheet_36: 2137064960877765045
+      Reaper-Sheet_37: 5064061923663108905
+      Reaper-Sheet_38: -6889950271698332626
+      Reaper-Sheet_39: -8923135251135334055
+      Reaper-Sheet_4: -543434756680846535
+      Reaper-Sheet_40: -6644897746094217237
+      Reaper-Sheet_41: -2833863629517326470
+      Reaper-Sheet_42: 196571472138156190
+      Reaper-Sheet_43: -3921641073691676447
+      Reaper-Sheet_44: 5110788648189941955
+      Reaper-Sheet_45: -922593125854893221
+      Reaper-Sheet_46: -3356604665925114957
+      Reaper-Sheet_47: 6879636908930437809
+      Reaper-Sheet_48: 6570109334074839482
+      Reaper-Sheet_49: 1862275495043140965
+      Reaper-Sheet_5: -3022114602445372938
+      Reaper-Sheet_50: -6293053191078200866
+      Reaper-Sheet_51: 5921850218527186676
+      Reaper-Sheet_52: 1815012002306357433
+      Reaper-Sheet_53: -133388217304914308
+      Reaper-Sheet_54: -1928172749584763486
+      Reaper-Sheet_55: 765792336460488515
+      Reaper-Sheet_56: -7830056376719127633
+      Reaper-Sheet_57: 7507577466897760043
+      Reaper-Sheet_58: 5325665545230072218
+      Reaper-Sheet_59: 5227022476095859309
+      Reaper-Sheet_6: 6971722988593933780
+      Reaper-Sheet_60: -6105786661956023123
+      Reaper-Sheet_61: 5305058779442668250
+      Reaper-Sheet_62: -3285312780822465329
+      Reaper-Sheet_63: 6398216703574454629
+      Reaper-Sheet_64: -669101598008659911
+      Reaper-Sheet_65: -5541097770887937051
+      Reaper-Sheet_66: 2895961920394979965
+      Reaper-Sheet_67: -3174649793151389211
+      Reaper-Sheet_68: -1471692522454340231
+      Reaper-Sheet_69: 2669562272475806595
+      Reaper-Sheet_7: -2587090243722973933
+      Reaper-Sheet_70: 6012023017710656879
+      Reaper-Sheet_71: -8749449640912294539
+      Reaper-Sheet_72: -7055443729999570843
+      Reaper-Sheet_73: 8820967171289206376
+      Reaper-Sheet_74: -8784437734766971585
+      Reaper-Sheet_75: 2954711892294600760
+      Reaper-Sheet_76: 8954475479235535427
+      Reaper-Sheet_77: -7954496662492210745
+      Reaper-Sheet_78: -6068973294602078787
+      Reaper-Sheet_79: 1196325872104826579
+      Reaper-Sheet_8: -3664903401313271602
+      Reaper-Sheet_80: 8440493659809824535
+      Reaper-Sheet_81: 716452192598250607
+      Reaper-Sheet_82: -3955615496373750592
+      Reaper-Sheet_83: -781203839987382530
+      Reaper-Sheet_84: -3164434811719874278
+      Reaper-Sheet_85: 8953575343414663719
+      Reaper-Sheet_86: 6134980790867031039
+      Reaper-Sheet_87: -2808732961427222935
+      Reaper-Sheet_88: 6195888407285878452
+      Reaper-Sheet_89: 7063407413068172806
+      Reaper-Sheet_9: -8793642247462055713
+      Reaper-Sheet_90: -1235639056991903857
+      Reaper-Sheet_91: -5234885043188343816
+      Reaper-Sheet_92: 4238435067998823275
+      Reaper-Sheet_93: -6659900607871055364
+      Reaper-Sheet_94: -7430468696152763596
+      Reaper-Sheet_95: -8660891465505568826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: c140f943bd0ca6741952fdf24de1cf24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3258384866419790429
+    second: EliteGoblin-Sheet_0
+  - first:
+      213: 6664228452590086069
+    second: EliteGoblin-Sheet_1
+  - first:
+      213: -440975141847439316
+    second: EliteGoblin-Sheet_2
+  - first:
+      213: -3275973697408110250
+    second: EliteGoblin-Sheet_3
+  - first:
+      213: 8035245285194642169
+    second: EliteGoblin-Sheet_4
+  - first:
+      213: 8851409559156542470
+    second: EliteGoblin-Sheet_5
+  - first:
+      213: 5309365405795745609
+    second: EliteGoblin-Sheet_6
+  - first:
+      213: 4518231794549127605
+    second: EliteGoblin-Sheet_7
+  - first:
+      213: -4699243921457957157
+    second: EliteGoblin-Sheet_8
+  - first:
+      213: 7887788571416218048
+    second: EliteGoblin-Sheet_9
+  - first:
+      213: -7625957098589593662
+    second: EliteGoblin-Sheet_10
+  - first:
+      213: 2428482703868902139
+    second: EliteGoblin-Sheet_11
+  - first:
+      213: 6661127747673247767
+    second: EliteGoblin-Sheet_12
+  - first:
+      213: -6819456204244178829
+    second: EliteGoblin-Sheet_13
+  - first:
+      213: 224876417475739913
+    second: EliteGoblin-Sheet_14
+  - first:
+      213: -3270237545057913343
+    second: EliteGoblin-Sheet_15
+  - first:
+      213: 4296614932036497759
+    second: EliteGoblin-Sheet_16
+  - first:
+      213: 1735609317538475285
+    second: EliteGoblin-Sheet_17
+  - first:
+      213: 955803835611863223
+    second: EliteGoblin-Sheet_18
+  - first:
+      213: 5480276151992308428
+    second: EliteGoblin-Sheet_19
+  - first:
+      213: 1775255281175868045
+    second: EliteGoblin-Sheet_20
+  - first:
+      213: 7721397668339728432
+    second: EliteGoblin-Sheet_21
+  - first:
+      213: 6767107158504832986
+    second: EliteGoblin-Sheet_22
+  - first:
+      213: 8206698721659413863
+    second: EliteGoblin-Sheet_23
+  - first:
+      213: 4030317389167259422
+    second: EliteGoblin-Sheet_24
+  - first:
+      213: 4700938552090938177
+    second: EliteGoblin-Sheet_25
+  - first:
+      213: -1664423875679160203
+    second: EliteGoblin-Sheet_26
+  - first:
+      213: -6108202933503402041
+    second: EliteGoblin-Sheet_27
+  - first:
+      213: -7381922663182973928
+    second: EliteGoblin-Sheet_28
+  - first:
+      213: -5302570642833821757
+    second: EliteGoblin-Sheet_29
+  - first:
+      213: -9050065783849880
+    second: EliteGoblin-Sheet_30
+  - first:
+      213: -7110361765599916597
+    second: EliteGoblin-Sheet_31
+  - first:
+      213: -2851116290331054228
+    second: EliteGoblin-Sheet_32
+  - first:
+      213: -6894252495171257084
+    second: EliteGoblin-Sheet_33
+  - first:
+      213: -4851933818173515445
+    second: EliteGoblin-Sheet_34
+  - first:
+      213: 9004112001943581736
+    second: EliteGoblin-Sheet_35
+  - first:
+      213: 1581608980525304539
+    second: EliteGoblin-Sheet_36
+  - first:
+      213: 8354859140240938406
+    second: EliteGoblin-Sheet_37
+  - first:
+      213: 5143376551014110891
+    second: EliteGoblin-Sheet_38
+  - first:
+      213: -6972546126446241936
+    second: EliteGoblin-Sheet_39
+  - first:
+      213: 7675303850591357495
+    second: EliteGoblin-Sheet_40
+  - first:
+      213: -4273659293759465340
+    second: EliteGoblin-Sheet_41
+  - first:
+      213: -2562698164831345781
+    second: EliteGoblin-Sheet_42
+  - first:
+      213: -2516100746483864508
+    second: EliteGoblin-Sheet_43
+  - first:
+      213: -429908400588482432
+    second: EliteGoblin-Sheet_44
+  - first:
+      213: -1050982473703246055
+    second: EliteGoblin-Sheet_45
+  - first:
+      213: 3133552683988007810
+    second: EliteGoblin-Sheet_46
+  - first:
+      213: -3176181786570089315
+    second: EliteGoblin-Sheet_47
+  - first:
+      213: 6708938265538340330
+    second: EliteGoblin-Sheet_48
+  - first:
+      213: 5518110083818545339
+    second: EliteGoblin-Sheet_49
+  - first:
+      213: 5396075086928100125
+    second: EliteGoblin-Sheet_50
+  - first:
+      213: 2658155103389414709
+    second: EliteGoblin-Sheet_51
+  - first:
+      213: -9046098173300560083
+    second: EliteGoblin-Sheet_52
+  - first:
+      213: -2017704058902063101
+    second: EliteGoblin-Sheet_53
+  - first:
+      213: 6303235169416093614
+    second: EliteGoblin-Sheet_54
+  - first:
+      213: 6309604906749453869
+    second: EliteGoblin-Sheet_55
+  - first:
+      213: 8279984308653263021
+    second: EliteGoblin-Sheet_56
+  - first:
+      213: -4474671842204695267
+    second: EliteGoblin-Sheet_57
+  - first:
+      213: 4178410830823766703
+    second: EliteGoblin-Sheet_58
+  - first:
+      213: 28875841759552685
+    second: EliteGoblin-Sheet_59
+  - first:
+      213: 7675525782870494503
+    second: EliteGoblin-Sheet_60
+  - first:
+      213: -6694999656908157754
+    second: EliteGoblin-Sheet_61
+  - first:
+      213: 1617148503818477757
+    second: EliteGoblin-Sheet_62
+  - first:
+      213: 6926824187799324985
+    second: EliteGoblin-Sheet_63
+  - first:
+      213: -8059545624742262977
+    second: EliteGoblin-Sheet_64
+  - first:
+      213: 8853512958406118790
+    second: EliteGoblin-Sheet_65
+  - first:
+      213: -5185828990380555921
+    second: EliteGoblin-Sheet_66
+  - first:
+      213: -1013673352675253871
+    second: EliteGoblin-Sheet_67
+  - first:
+      213: -7392310744342498144
+    second: EliteGoblin-Sheet_68
+  - first:
+      213: 4817799741214226035
+    second: EliteGoblin-Sheet_69
+  - first:
+      213: -4625493409390340627
+    second: EliteGoblin-Sheet_70
+  - first:
+      213: -5793776580899715362
+    second: EliteGoblin-Sheet_71
+  - first:
+      213: 1808697187401435516
+    second: EliteGoblin-Sheet_72
+  - first:
+      213: 2643983390841173891
+    second: EliteGoblin-Sheet_73
+  - first:
+      213: -307426566122624193
+    second: EliteGoblin-Sheet_74
+  - first:
+      213: -3186566915270367904
+    second: EliteGoblin-Sheet_75
+  - first:
+      213: 247076826346507086
+    second: EliteGoblin-Sheet_76
+  - first:
+      213: -6841005835064513074
+    second: EliteGoblin-Sheet_77
+  - first:
+      213: -1448266061448841779
+    second: EliteGoblin-Sheet_78
+  - first:
+      213: 9002563467477179603
+    second: EliteGoblin-Sheet_79
+  - first:
+      213: -2255133341652578851
+    second: EliteGoblin-Sheet_80
+  - first:
+      213: 191904422640402233
+    second: EliteGoblin-Sheet_81
+  - first:
+      213: 3600092947699245171
+    second: EliteGoblin-Sheet_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 191
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52d578b5cb183d20800000000000000
+      internalID: 3258384866419790429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7eea218781c7c50800000000000000
+      internalID: 6664228452590086069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 191
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e763e17751e9f0800000000000000
+      internalID: -440975141847439316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 191
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651777077476982d0800000000000000
+      internalID: -3275973697408110250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 191
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b82ba30de28f60800000000000000
+      internalID: 8035245285194642169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 191
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc507e81686da70800000000000000
+      internalID: 8851409559156542470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ff333d4b7aea940800000000000000
+      internalID: 5309365405795745609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9f9f6e0ebf3be30800000000000000
+      internalID: 4518231794549127605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b5941d8ee8ceb0800000000000000
+      internalID: -4699243921457957157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 159
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c946a61aed077d60800000000000000
+      internalID: 7887788571416218048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 160
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd2324c682b2690800000000000000
+      internalID: -7625957098589593662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 159
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa394b0724b3b120800000000000000
+      internalID: 2428482703868902139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 159
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710df83f464117c50800000000000000
+      internalID: 6661127747673247767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 159
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37821b896bc6c51a0800000000000000
+      internalID: -6819456204244178829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 159
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901010609ebee1300800000000000000
+      internalID: 224876417475739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 159
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067dab7748cd92d0800000000000000
+      internalID: -3270237545057913343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 159
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51bca82484a0ab30800000000000000
+      internalID: 4296614932036497759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d2db88a7f161810800000000000000
+      internalID: 1735609317538475285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d9904682b34d00800000000000000
+      internalID: 955803835611863223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2db8edf1add0c40800000000000000
+      internalID: 5480276151992308428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 127
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82bf14c549f2a810800000000000000
+      internalID: 1775255281175868045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304be6054ae72b60800000000000000
+      internalID: 7721397668339728432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 129
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adffea36b1899ed50800000000000000
+      internalID: 6767107158504832986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 140
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7656923a10d04e170800000000000000
+      internalID: 8206698721659413863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe469df409ee730800000000000000
+      internalID: 4030317389167259422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc15cd4b61d3140800000000000000
+      internalID: 4700938552090938177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 95
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f676bd47c6e8e0800000000000000
+      internalID: -1664423875679160203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfd78c6bcd4b3ba0800000000000000
+      internalID: -6108202933503402041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c29de2742e8990800000000000000
+      internalID: -7381922663182973928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfa975381c7966b0800000000000000
+      internalID: -5302570642833821757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 95
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c72cb5309dfdff0800000000000000
+      internalID: -9050065783849880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 95
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdc5e085abe25d90800000000000000
+      internalID: -7110361765599916597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 95
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fec7df6dcce68d0800000000000000
+      internalID: -2851116290331054228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 95
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d777902e1b250a0800000000000000
+      internalID: -6894252495171257084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49101626e77aacb0800000000000000
+      internalID: -4851933818173515445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 95
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824bda1f82805fc70800000000000000
+      internalID: 9004112001943581736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 95
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda47c1fcf003f510800000000000000
+      internalID: 1581608980525304539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59c724f1c62f370800000000000000
+      internalID: 8354859140240938406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6154de8b1f06740800000000000000
+      internalID: 5143376551014110891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07755297d3a8c3f90800000000000000
+      internalID: -6972546126446241936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a8fa5cf28248a60800000000000000
+      internalID: 7675303850591357495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889b60e389e0b4c0800000000000000
+      internalID: -4273659293759465340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 107
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83aeaac8977f6cd0800000000000000
+      internalID: -2562698164831345781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cebb2b3b3051dd0800000000000000
+      internalID: -2516100746483864508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08897f06698a80af0800000000000000
+      internalID: -429908400588482432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 63
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b1cd22092a61f0800000000000000
+      internalID: -1050982473703246055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb316509d9c7b20800000000000000
+      internalID: 3133552683988007810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c9c654e7febe3d0800000000000000
+      internalID: -3176181786570089315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 63
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae520799ecfea1d50800000000000000
+      internalID: 6708938265538340330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0618192e3449c40800000000000000
+      internalID: 5518110083818545339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3fa1b3b5b2ea40800000000000000
+      internalID: 5396075086928100125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 63
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535fa67abf9a3e420800000000000000
+      internalID: 2658155103389414709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 63
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2c11c3adc57280800000000000000
+      internalID: -9046098173300560083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 63
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308574349dcaff3e0800000000000000
+      internalID: -2017704058902063101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9bc89df6997750800000000000000
+      internalID: 6303235169416093614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ecd3ab38309750800000000000000
+      internalID: 6309604906749453869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da806170cd968e270800000000000000
+      internalID: 8279984308653263021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1542f6daa5c6e1c0800000000000000
+      internalID: -4474671842204695267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa35e03382bcf930800000000000000
+      internalID: 4178410830823766703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da42ba2dc66966000800000000000000
+      internalID: 28875841759552685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d09586802f48a60800000000000000
+      internalID: 7675525782870494503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 31
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc80ae98459613a0800000000000000
+      internalID: -6694999656908157754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a7270ff3417610800000000000000
+      internalID: 1617148503818477757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 31
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cc5f16e5012060800000000000000
+      internalID: 6926824187799324985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 31
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370f22a4fdb62090800000000000000
+      internalID: -8059545624742262977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d4d14b02ffdda70800000000000000
+      internalID: 8853512958406118790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61c17a420c3808b0800000000000000
+      internalID: -5185828990380555921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1912387d475bee1f0800000000000000
+      internalID: -1013673352675253871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4792e4b8c396990800000000000000
+      internalID: -7392310744342498144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376fa0eb6534cd240800000000000000
+      internalID: 4817799741214226035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d0664042fecfb0800000000000000
+      internalID: -4625493409390340627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ce7b75ee589fa0800000000000000
+      internalID: -5793776580899715362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798f415288c91910800000000000000
+      internalID: 1808697187401435516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387fe13b2e051b420800000000000000
+      internalID: 2643983390841173891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b2ebbba2dcbbbf0800000000000000
+      internalID: -307426566122624193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0652c42164a07c3d0800000000000000
+      internalID: -3186566915270367904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b4d92801bcd6300800000000000000
+      internalID: 247076826346507086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdea9e207ddf01a0800000000000000
+      internalID: -6841005835064513074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5761bb0b9b6ebe0800000000000000
+      internalID: -1448266061448841779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd2eaa6c78fec70800000000000000
+      internalID: 9002563467477179603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 12
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd88a98c2824b0e0800000000000000
+      internalID: -2255133341652578851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 12
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fbe4e3e08c9a200800000000000000
+      internalID: 191904422640402233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EliteGoblin-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370a00a367916f130800000000000000
+      internalID: 3600092947699245171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EliteGoblin-Sheet_0: 3258384866419790429
+      EliteGoblin-Sheet_1: 6664228452590086069
+      EliteGoblin-Sheet_10: -7625957098589593662
+      EliteGoblin-Sheet_11: 2428482703868902139
+      EliteGoblin-Sheet_12: 6661127747673247767
+      EliteGoblin-Sheet_13: -6819456204244178829
+      EliteGoblin-Sheet_14: 224876417475739913
+      EliteGoblin-Sheet_15: -3270237545057913343
+      EliteGoblin-Sheet_16: 4296614932036497759
+      EliteGoblin-Sheet_17: 1735609317538475285
+      EliteGoblin-Sheet_18: 955803835611863223
+      EliteGoblin-Sheet_19: 5480276151992308428
+      EliteGoblin-Sheet_2: -440975141847439316
+      EliteGoblin-Sheet_20: 1775255281175868045
+      EliteGoblin-Sheet_21: 7721397668339728432
+      EliteGoblin-Sheet_22: 6767107158504832986
+      EliteGoblin-Sheet_23: 8206698721659413863
+      EliteGoblin-Sheet_24: 4030317389167259422
+      EliteGoblin-Sheet_25: 4700938552090938177
+      EliteGoblin-Sheet_26: -1664423875679160203
+      EliteGoblin-Sheet_27: -6108202933503402041
+      EliteGoblin-Sheet_28: -7381922663182973928
+      EliteGoblin-Sheet_29: -5302570642833821757
+      EliteGoblin-Sheet_3: -3275973697408110250
+      EliteGoblin-Sheet_30: -9050065783849880
+      EliteGoblin-Sheet_31: -7110361765599916597
+      EliteGoblin-Sheet_32: -2851116290331054228
+      EliteGoblin-Sheet_33: -6894252495171257084
+      EliteGoblin-Sheet_34: -4851933818173515445
+      EliteGoblin-Sheet_35: 9004112001943581736
+      EliteGoblin-Sheet_36: 1581608980525304539
+      EliteGoblin-Sheet_37: 8354859140240938406
+      EliteGoblin-Sheet_38: 5143376551014110891
+      EliteGoblin-Sheet_39: -6972546126446241936
+      EliteGoblin-Sheet_4: 8035245285194642169
+      EliteGoblin-Sheet_40: 7675303850591357495
+      EliteGoblin-Sheet_41: -4273659293759465340
+      EliteGoblin-Sheet_42: -2562698164831345781
+      EliteGoblin-Sheet_43: -2516100746483864508
+      EliteGoblin-Sheet_44: -429908400588482432
+      EliteGoblin-Sheet_45: -1050982473703246055
+      EliteGoblin-Sheet_46: 3133552683988007810
+      EliteGoblin-Sheet_47: -3176181786570089315
+      EliteGoblin-Sheet_48: 6708938265538340330
+      EliteGoblin-Sheet_49: 5518110083818545339
+      EliteGoblin-Sheet_5: 8851409559156542470
+      EliteGoblin-Sheet_50: 5396075086928100125
+      EliteGoblin-Sheet_51: 2658155103389414709
+      EliteGoblin-Sheet_52: -9046098173300560083
+      EliteGoblin-Sheet_53: -2017704058902063101
+      EliteGoblin-Sheet_54: 6303235169416093614
+      EliteGoblin-Sheet_55: 6309604906749453869
+      EliteGoblin-Sheet_56: 8279984308653263021
+      EliteGoblin-Sheet_57: -4474671842204695267
+      EliteGoblin-Sheet_58: 4178410830823766703
+      EliteGoblin-Sheet_59: 28875841759552685
+      EliteGoblin-Sheet_6: 5309365405795745609
+      EliteGoblin-Sheet_60: 7675525782870494503
+      EliteGoblin-Sheet_61: -6694999656908157754
+      EliteGoblin-Sheet_62: 1617148503818477757
+      EliteGoblin-Sheet_63: 6926824187799324985
+      EliteGoblin-Sheet_64: -8059545624742262977
+      EliteGoblin-Sheet_65: 8853512958406118790
+      EliteGoblin-Sheet_66: -5185828990380555921
+      EliteGoblin-Sheet_67: -1013673352675253871
+      EliteGoblin-Sheet_68: -7392310744342498144
+      EliteGoblin-Sheet_69: 4817799741214226035
+      EliteGoblin-Sheet_7: 4518231794549127605
+      EliteGoblin-Sheet_70: -4625493409390340627
+      EliteGoblin-Sheet_71: -5793776580899715362
+      EliteGoblin-Sheet_72: 1808697187401435516
+      EliteGoblin-Sheet_73: 2643983390841173891
+      EliteGoblin-Sheet_74: -307426566122624193
+      EliteGoblin-Sheet_75: -3186566915270367904
+      EliteGoblin-Sheet_76: 247076826346507086
+      EliteGoblin-Sheet_77: -6841005835064513074
+      EliteGoblin-Sheet_78: -1448266061448841779
+      EliteGoblin-Sheet_79: 9002563467477179603
+      EliteGoblin-Sheet_8: -4699243921457957157
+      EliteGoblin-Sheet_80: -2255133341652578851
+      EliteGoblin-Sheet_81: 191904422640402233
+      EliteGoblin-Sheet_82: 3600092947699245171
+      EliteGoblin-Sheet_9: 7887788571416218048
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

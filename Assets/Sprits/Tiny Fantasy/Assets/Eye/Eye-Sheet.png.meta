@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: cd3631f299cd6f84b865ae3042c8ba50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7239523064020937088
+    second: Eye-Sheet_0
+  - first:
+      213: 1548782627252474714
+    second: Eye-Sheet_1
+  - first:
+      213: 8411485928157803299
+    second: Eye-Sheet_2
+  - first:
+      213: 1361107504031335022
+    second: Eye-Sheet_3
+  - first:
+      213: 6063516159821525117
+    second: Eye-Sheet_4
+  - first:
+      213: 4259716751903828588
+    second: Eye-Sheet_5
+  - first:
+      213: -1395946494937575157
+    second: Eye-Sheet_6
+  - first:
+      213: -1097506969859235275
+    second: Eye-Sheet_7
+  - first:
+      213: -7251993533061519156
+    second: Eye-Sheet_8
+  - first:
+      213: -6988828081310127730
+    second: Eye-Sheet_9
+  - first:
+      213: -675817761633346694
+    second: Eye-Sheet_10
+  - first:
+      213: 7536615903496818334
+    second: Eye-Sheet_11
+  - first:
+      213: 5224065929410140968
+    second: Eye-Sheet_12
+  - first:
+      213: 5229494701922567910
+    second: Eye-Sheet_13
+  - first:
+      213: -629036392562560017
+    second: Eye-Sheet_14
+  - first:
+      213: 6514742769083173754
+    second: Eye-Sheet_15
+  - first:
+      213: 5590125584938503027
+    second: Eye-Sheet_16
+  - first:
+      213: 7618771825121585381
+    second: Eye-Sheet_17
+  - first:
+      213: -5751376168897176599
+    second: Eye-Sheet_18
+  - first:
+      213: -606350030345428451
+    second: Eye-Sheet_19
+  - first:
+      213: -6626845689776030247
+    second: Eye-Sheet_20
+  - first:
+      213: -180030052169934079
+    second: Eye-Sheet_21
+  - first:
+      213: -2974225176301390035
+    second: Eye-Sheet_22
+  - first:
+      213: -1068120509153160911
+    second: Eye-Sheet_23
+  - first:
+      213: -5300280660899005675
+    second: Eye-Sheet_24
+  - first:
+      213: -1901716779058982824
+    second: Eye-Sheet_25
+  - first:
+      213: 1295390561874138795
+    second: Eye-Sheet_26
+  - first:
+      213: 2587808729634866518
+    second: Eye-Sheet_27
+  - first:
+      213: 6142887050636427153
+    second: Eye-Sheet_28
+  - first:
+      213: -1270146645587793922
+    second: Eye-Sheet_29
+  - first:
+      213: -5813406245527862867
+    second: Eye-Sheet_30
+  - first:
+      213: 1392992438564932416
+    second: Eye-Sheet_31
+  - first:
+      213: 6396375246792052359
+    second: Eye-Sheet_32
+  - first:
+      213: 7450879447732549953
+    second: Eye-Sheet_33
+  - first:
+      213: -1512631472452724905
+    second: Eye-Sheet_34
+  - first:
+      213: -5999132775020804218
+    second: Eye-Sheet_35
+  - first:
+      213: 6163582981830075162
+    second: Eye-Sheet_36
+  - first:
+      213: 1702756320197718437
+    second: Eye-Sheet_37
+  - first:
+      213: -3994709775822097746
+    second: Eye-Sheet_38
+  - first:
+      213: -6970739275450369788
+    second: Eye-Sheet_39
+  - first:
+      213: -96474560517666584
+    second: Eye-Sheet_40
+  - first:
+      213: 5531617986964920228
+    second: Eye-Sheet_41
+  - first:
+      213: -1402549982487398430
+    second: Eye-Sheet_42
+  - first:
+      213: 7770446992772917165
+    second: Eye-Sheet_43
+  - first:
+      213: 3159123721475586227
+    second: Eye-Sheet_44
+  - first:
+      213: 1833549141728146271
+    second: Eye-Sheet_45
+  - first:
+      213: 2774452745899699969
+    second: Eye-Sheet_46
+  - first:
+      213: -2801679204827268720
+    second: Eye-Sheet_47
+  - first:
+      213: -346545178800739870
+    second: Eye-Sheet_48
+  - first:
+      213: 2119970372193930128
+    second: Eye-Sheet_49
+  - first:
+      213: 8119689793251768695
+    second: Eye-Sheet_50
+  - first:
+      213: -7225864022298923516
+    second: Eye-Sheet_51
+  - first:
+      213: 4916492845346046396
+    second: Eye-Sheet_52
+  - first:
+      213: -3775569230095680652
+    second: Eye-Sheet_53
+  - first:
+      213: 9164049430913808714
+    second: Eye-Sheet_54
+  - first:
+      213: -64909568641980415
+    second: Eye-Sheet_55
+  - first:
+      213: 1626829687027070040
+    second: Eye-Sheet_56
+  - first:
+      213: 3044601036268609219
+    second: Eye-Sheet_57
+  - first:
+      213: 6854927836128328277
+    second: Eye-Sheet_58
+  - first:
+      213: 3992409176073551681
+    second: Eye-Sheet_59
+  - first:
+      213: -281386423232303577
+    second: Eye-Sheet_60
+  - first:
+      213: 5859694631928087570
+    second: Eye-Sheet_61
+  - first:
+      213: 5334873781571040266
+    second: Eye-Sheet_62
+  - first:
+      213: 3006106837553062086
+    second: Eye-Sheet_63
+  - first:
+      213: 5255087898607698550
+    second: Eye-Sheet_64
+  - first:
+      213: -3322699667840977674
+    second: Eye-Sheet_65
+  - first:
+      213: 779372076202320939
+    second: Eye-Sheet_66
+  - first:
+      213: -2756664101004595109
+    second: Eye-Sheet_67
+  - first:
+      213: 6541941148969840592
+    second: Eye-Sheet_68
+  - first:
+      213: -1642537538622196635
+    second: Eye-Sheet_69
+  - first:
+      213: -120257527760436633
+    second: Eye-Sheet_70
+  - first:
+      213: -3480332004726293747
+    second: Eye-Sheet_71
+  - first:
+      213: -451929573142598135
+    second: Eye-Sheet_72
+  - first:
+      213: 750563193758780737
+    second: Eye-Sheet_73
+  - first:
+      213: 4604413989576523503
+    second: Eye-Sheet_74
+  - first:
+      213: -6633188321693292951
+    second: Eye-Sheet_75
+  - first:
+      213: 5045702662204757774
+    second: Eye-Sheet_76
+  - first:
+      213: 4908535153386548612
+    second: Eye-Sheet_77
+  - first:
+      213: 5484748089334271104
+    second: Eye-Sheet_78
+  - first:
+      213: -8791040338264610262
+    second: Eye-Sheet_79
+  - first:
+      213: 379010786263266705
+    second: Eye-Sheet_80
+  - first:
+      213: -2119811448308732222
+    second: Eye-Sheet_81
+  - first:
+      213: -2794482273725116162
+    second: Eye-Sheet_82
+  - first:
+      213: 267637328320628627
+    second: Eye-Sheet_83
+  - first:
+      213: -851809307112932926
+    second: Eye-Sheet_84
+  - first:
+      213: -901512540995228985
+    second: Eye-Sheet_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eye-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 194
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089273ebed3f77460800000000000000
+      internalID: 7239523064020937088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 194
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531eabf7916e7510800000000000000
+      internalID: 1548782627252474714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323fa0db2e99bb470800000000000000
+      internalID: 8411485928157803299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 193
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6208ee3010a3e210800000000000000
+      internalID: 1361107504031335022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 204
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b00c42dfe52450800000000000000
+      internalID: 6063516159821525117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a220121dd8d1b30800000000000000
+      internalID: 4259716751903828588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b015bc31f0a90ace0800000000000000
+      internalID: -1395946494937575157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532660bc93fd4c0f0800000000000000
+      internalID: -1097506969859235275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 160
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8207ced4ebb5b90800000000000000
+      internalID: -7251993533061519156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 161
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e892c3173e1b20f90800000000000000
+      internalID: -6988828081310127730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 162
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bd1f093530f96f0800000000000000
+      internalID: -675817761633346694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 164
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ecc78cb30779860800000000000000
+      internalID: 7536615903496818334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 163
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b56b5d84c9f7840800000000000000
+      internalID: 5224065929410140968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c1ee69b5e29840800000000000000
+      internalID: 5229494701922567910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f386dbb63547f0800000000000000
+      internalID: -629036392562560017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4f3a2804096a50800000000000000
+      internalID: 6514742769083173754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 130
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b051c0a9d149d40800000000000000
+      internalID: 5590125584938503027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 131
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e86025eb905bb960800000000000000
+      internalID: 7618771825121585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 130
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb9c33b8d10f20b0800000000000000
+      internalID: -5751376168897176599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 129
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12a6b72cdfc597f0800000000000000
+      internalID: -606350030345428451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 130
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd3297a4f6b804a0800000000000000
+      internalID: -6626845689776030247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b14831f97608df0800000000000000
+      internalID: -180030052169934079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 130
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d273884d5fd69b6d0800000000000000
+      internalID: -2974225176301390035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 138
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131dd9a5e064d21f0800000000000000
+      internalID: -1068120509153160911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bfd3d22de9176b0800000000000000
+      internalID: -5300280660899005675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 138
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8501ac84aaebb95e0800000000000000
+      internalID: -1901716779058982824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 138
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d6ed4ad62af110800000000000000
+      internalID: 1295390561874138795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 138
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6558a8c245eb9e320800000000000000
+      internalID: 2587808729634866518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 138
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff784e93bef3550800000000000000
+      internalID: 6142887050636427153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 98
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7e519fa588f5ee0800000000000000
+      internalID: -1270146645587793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1464802d1a25fa0800000000000000
+      internalID: -5813406245527862867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bc7731e37e45310800000000000000
+      internalID: 1392992438564932416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4423c56d74c850800000000000000
+      internalID: 6396375246792052359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1497b5a9167d66760800000000000000
+      internalID: 7450879447732549953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571168a0bd020be0800000000000000
+      internalID: -1512631472452724905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874b70a68ccebca0800000000000000
+      internalID: -5999132775020804218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 100
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13ef9fd012798550800000000000000
+      internalID: 6163582981830075162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 99
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1bf640ad761a710800000000000000
+      internalID: 1702756320197718437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 98
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2f75faf90ff88c0800000000000000
+      internalID: -3994709775822097746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 97
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409bae0cf85f24f90800000000000000
+      internalID: -6970739275450369788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 98
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88b7af5e049aef0800000000000000
+      internalID: -96474560517666584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7943a504144cc40800000000000000
+      internalID: 5531617986964920228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7bb12d834298ce0800000000000000
+      internalID: -1402549982487398430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da76b3ece5c26db60800000000000000
+      internalID: 7770446992772917165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ff04794677db20800000000000000
+      internalID: 3159123721475586227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53bde6da33127910800000000000000
+      internalID: 1833549141728146271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f657d9216d08620800000000000000
+      internalID: 2774452745899699969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099fbad6b9f6e19d0800000000000000
+      internalID: -2801679204827268720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e925f6fef2d03bf0800000000000000
+      internalID: -346545178800739870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc8f842d5ab6d10800000000000000
+      internalID: 2119970372193930128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f225d8deeea070800000000000000
+      internalID: 8119689793251768695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 66
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ee89bb4f298bb90800000000000000
+      internalID: -7225864022298923516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c993b134ea3440800000000000000
+      internalID: 4916492845346046396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b704ff9cb7a9bc0800000000000000
+      internalID: -3775569230095680652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49fcb9776e3d2f70800000000000000
+      internalID: 9164049430913808714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108229a5715691ff0800000000000000
+      internalID: -64909568641980415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 14
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854fe452bf8a39610800000000000000
+      internalID: 1626829687027070040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 33
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce9391f288904a20800000000000000
+      internalID: 3044601036268609219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 32
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55abd594c88912f50800000000000000
+      internalID: 6854927836128328277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 31
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbfd13ef2e76730800000000000000
+      internalID: 3992409176073551681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 31
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eee96f980581cf0800000000000000
+      internalID: -281386423232303577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144654c831d15150800000000000000
+      internalID: 5859694631928087570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 31
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0436106077490a40800000000000000
+      internalID: 5334873781571040266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 31
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c02931ed36d7b920800000000000000
+      internalID: 3006106837553062086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 31
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67247f3e992dde840800000000000000
+      internalID: 5255087898607698550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 31
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4b70ba14663e1d0800000000000000
+      internalID: -3322699667840977674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24e5e526c2e0da00800000000000000
+      internalID: 779372076202320939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50bc860b9c5eb9d0800000000000000
+      internalID: -2756664101004595109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfabd570d4a9ca50800000000000000
+      internalID: 6541941148969840592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564fd28afc88439e0800000000000000
+      internalID: -1642537538622196635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c5486a62c45ef0800000000000000
+      internalID: -120257527760436633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 31
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bbdd53b7063bfc0800000000000000
+      internalID: -3480332004726293747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 31
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e6759927c6ab9f0800000000000000
+      internalID: -451929573142598135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d89718f398a6a00800000000000000
+      internalID: 750563193758780737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee3c87d02a26ef30800000000000000
+      internalID: 4604413989576523503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a3359d5e22f3a0800000000000000
+      internalID: -6633188321693292951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0715f686dfe50640800000000000000
+      internalID: 5045702662204757774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6f1927be9e1440800000000000000
+      internalID: 4908535153386548612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c854be35dbd1c40800000000000000
+      internalID: 5484748089334271104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aab97a363fff580800000000000000
+      internalID: -8791040338264610262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19573415d44824500800000000000000
+      internalID: 379010786263266705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce60c018bae492e0800000000000000
+      internalID: -2119811448308732222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01d778d210839d0800000000000000
+      internalID: -2794482273725116162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978f2b6bb6d6b300800000000000000
+      internalID: 267637328320628627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c97921c2f3cd24f0800000000000000
+      internalID: -851809307112932926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eye-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6b61de1f2d73f0800000000000000
+      internalID: -901512540995228985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Eye-Sheet_0: 7239523064020937088
+      Eye-Sheet_1: 1548782627252474714
+      Eye-Sheet_10: -675817761633346694
+      Eye-Sheet_11: 7536615903496818334
+      Eye-Sheet_12: 5224065929410140968
+      Eye-Sheet_13: 5229494701922567910
+      Eye-Sheet_14: -629036392562560017
+      Eye-Sheet_15: 6514742769083173754
+      Eye-Sheet_16: 5590125584938503027
+      Eye-Sheet_17: 7618771825121585381
+      Eye-Sheet_18: -5751376168897176599
+      Eye-Sheet_19: -606350030345428451
+      Eye-Sheet_2: 8411485928157803299
+      Eye-Sheet_20: -6626845689776030247
+      Eye-Sheet_21: -180030052169934079
+      Eye-Sheet_22: -2974225176301390035
+      Eye-Sheet_23: -1068120509153160911
+      Eye-Sheet_24: -5300280660899005675
+      Eye-Sheet_25: -1901716779058982824
+      Eye-Sheet_26: 1295390561874138795
+      Eye-Sheet_27: 2587808729634866518
+      Eye-Sheet_28: 6142887050636427153
+      Eye-Sheet_29: -1270146645587793922
+      Eye-Sheet_3: 1361107504031335022
+      Eye-Sheet_30: -5813406245527862867
+      Eye-Sheet_31: 1392992438564932416
+      Eye-Sheet_32: 6396375246792052359
+      Eye-Sheet_33: 7450879447732549953
+      Eye-Sheet_34: -1512631472452724905
+      Eye-Sheet_35: -5999132775020804218
+      Eye-Sheet_36: 6163582981830075162
+      Eye-Sheet_37: 1702756320197718437
+      Eye-Sheet_38: -3994709775822097746
+      Eye-Sheet_39: -6970739275450369788
+      Eye-Sheet_4: 6063516159821525117
+      Eye-Sheet_40: -96474560517666584
+      Eye-Sheet_41: 5531617986964920228
+      Eye-Sheet_42: -1402549982487398430
+      Eye-Sheet_43: 7770446992772917165
+      Eye-Sheet_44: 3159123721475586227
+      Eye-Sheet_45: 1833549141728146271
+      Eye-Sheet_46: 2774452745899699969
+      Eye-Sheet_47: -2801679204827268720
+      Eye-Sheet_48: -346545178800739870
+      Eye-Sheet_49: 2119970372193930128
+      Eye-Sheet_5: 4259716751903828588
+      Eye-Sheet_50: 8119689793251768695
+      Eye-Sheet_51: -7225864022298923516
+      Eye-Sheet_52: 4916492845346046396
+      Eye-Sheet_53: -3775569230095680652
+      Eye-Sheet_54: 9164049430913808714
+      Eye-Sheet_55: -64909568641980415
+      Eye-Sheet_56: 1626829687027070040
+      Eye-Sheet_57: 3044601036268609219
+      Eye-Sheet_58: 6854927836128328277
+      Eye-Sheet_59: 3992409176073551681
+      Eye-Sheet_6: -1395946494937575157
+      Eye-Sheet_60: -281386423232303577
+      Eye-Sheet_61: 5859694631928087570
+      Eye-Sheet_62: 5334873781571040266
+      Eye-Sheet_63: 3006106837553062086
+      Eye-Sheet_64: 5255087898607698550
+      Eye-Sheet_65: -3322699667840977674
+      Eye-Sheet_66: 779372076202320939
+      Eye-Sheet_67: -2756664101004595109
+      Eye-Sheet_68: 6541941148969840592
+      Eye-Sheet_69: -1642537538622196635
+      Eye-Sheet_7: -1097506969859235275
+      Eye-Sheet_70: -120257527760436633
+      Eye-Sheet_71: -3480332004726293747
+      Eye-Sheet_72: -451929573142598135
+      Eye-Sheet_73: 750563193758780737
+      Eye-Sheet_74: 4604413989576523503
+      Eye-Sheet_75: -6633188321693292951
+      Eye-Sheet_76: 5045702662204757774
+      Eye-Sheet_77: 4908535153386548612
+      Eye-Sheet_78: 5484748089334271104
+      Eye-Sheet_79: -8791040338264610262
+      Eye-Sheet_8: -7251993533061519156
+      Eye-Sheet_80: 379010786263266705
+      Eye-Sheet_81: -2119811448308732222
+      Eye-Sheet_82: -2794482273725116162
+      Eye-Sheet_83: 267637328320628627
+      Eye-Sheet_84: -851809307112932926
+      Eye-Sheet_85: -901512540995228985
+      Eye-Sheet_9: -6988828081310127730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

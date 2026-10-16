@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 2044b71feb3b4c945ae2df3f3b5e01fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8486686997365545564
+    second: Warlock-Sheet_0
+  - first:
+      213: -1524755464107431424
+    second: Warlock-Sheet_1
+  - first:
+      213: -1963776190238456387
+    second: Warlock-Sheet_2
+  - first:
+      213: 7080609071975089286
+    second: Warlock-Sheet_3
+  - first:
+      213: -1911276107538449555
+    second: Warlock-Sheet_4
+  - first:
+      213: -8953571151319976653
+    second: Warlock-Sheet_5
+  - first:
+      213: -6659916063627699203
+    second: Warlock-Sheet_6
+  - first:
+      213: -3447173206183618630
+    second: Warlock-Sheet_7
+  - first:
+      213: -2773761653706245007
+    second: Warlock-Sheet_8
+  - first:
+      213: -1135301293339976460
+    second: Warlock-Sheet_9
+  - first:
+      213: 6659149546524778047
+    second: Warlock-Sheet_10
+  - first:
+      213: 7492390733604645999
+    second: Warlock-Sheet_11
+  - first:
+      213: 1657544078376655375
+    second: Warlock-Sheet_12
+  - first:
+      213: -4657478798649840319
+    second: Warlock-Sheet_13
+  - first:
+      213: 3192238154943837076
+    second: Warlock-Sheet_14
+  - first:
+      213: -5442943232113384171
+    second: Warlock-Sheet_15
+  - first:
+      213: -6909288539730215130
+    second: Warlock-Sheet_16
+  - first:
+      213: 8215533724122126349
+    second: Warlock-Sheet_17
+  - first:
+      213: -239883992806980683
+    second: Warlock-Sheet_18
+  - first:
+      213: 8641527344744787531
+    second: Warlock-Sheet_19
+  - first:
+      213: -4978668806249717474
+    second: Warlock-Sheet_20
+  - first:
+      213: -6002116073728479240
+    second: Warlock-Sheet_21
+  - first:
+      213: 805842714419142127
+    second: Warlock-Sheet_22
+  - first:
+      213: -7741194514062708611
+    second: Warlock-Sheet_23
+  - first:
+      213: -1769174369612263906
+    second: Warlock-Sheet_24
+  - first:
+      213: -5394282978858355477
+    second: Warlock-Sheet_25
+  - first:
+      213: -4753632001171674866
+    second: Warlock-Sheet_26
+  - first:
+      213: -3623793191425072143
+    second: Warlock-Sheet_27
+  - first:
+      213: -1547181007928439820
+    second: Warlock-Sheet_28
+  - first:
+      213: 7645254241270398544
+    second: Warlock-Sheet_29
+  - first:
+      213: -3219639253162682632
+    second: Warlock-Sheet_30
+  - first:
+      213: 8747677699180385850
+    second: Warlock-Sheet_31
+  - first:
+      213: -7537833550148351211
+    second: Warlock-Sheet_32
+  - first:
+      213: -505709441650826996
+    second: Warlock-Sheet_33
+  - first:
+      213: 1943399939249278632
+    second: Warlock-Sheet_34
+  - first:
+      213: 7144421743119199236
+    second: Warlock-Sheet_35
+  - first:
+      213: -5712156781264094852
+    second: Warlock-Sheet_36
+  - first:
+      213: 9113705010645503420
+    second: Warlock-Sheet_37
+  - first:
+      213: 1680777794303493172
+    second: Warlock-Sheet_38
+  - first:
+      213: 2223117616579886793
+    second: Warlock-Sheet_39
+  - first:
+      213: -780140900614594125
+    second: Warlock-Sheet_40
+  - first:
+      213: -1562387490763937916
+    second: Warlock-Sheet_41
+  - first:
+      213: -7380938254924551444
+    second: Warlock-Sheet_42
+  - first:
+      213: -1160956304353018306
+    second: Warlock-Sheet_43
+  - first:
+      213: -8908107606378042844
+    second: Warlock-Sheet_44
+  - first:
+      213: 1381584979073377184
+    second: Warlock-Sheet_45
+  - first:
+      213: -7711706754083083437
+    second: Warlock-Sheet_46
+  - first:
+      213: 5188901647488664515
+    second: Warlock-Sheet_47
+  - first:
+      213: 1252156673821551187
+    second: Warlock-Sheet_48
+  - first:
+      213: -3651520534413426819
+    second: Warlock-Sheet_49
+  - first:
+      213: -9131638776407137753
+    second: Warlock-Sheet_50
+  - first:
+      213: -4184600749589856935
+    second: Warlock-Sheet_51
+  - first:
+      213: 8003120471401195370
+    second: Warlock-Sheet_52
+  - first:
+      213: 7913641127445380272
+    second: Warlock-Sheet_53
+  - first:
+      213: -7473846655525408326
+    second: Warlock-Sheet_54
+  - first:
+      213: -9148122482664067629
+    second: Warlock-Sheet_55
+  - first:
+      213: 4261896539536989605
+    second: Warlock-Sheet_56
+  - first:
+      213: -298934684031219002
+    second: Warlock-Sheet_57
+  - first:
+      213: -6901233805824189370
+    second: Warlock-Sheet_58
+  - first:
+      213: -8272051200977002939
+    second: Warlock-Sheet_59
+  - first:
+      213: -8028711493412168921
+    second: Warlock-Sheet_60
+  - first:
+      213: 2117900471374812147
+    second: Warlock-Sheet_61
+  - first:
+      213: 123681051697149305
+    second: Warlock-Sheet_62
+  - first:
+      213: -2063476164387911679
+    second: Warlock-Sheet_63
+  - first:
+      213: 3440919582380197887
+    second: Warlock-Sheet_64
+  - first:
+      213: 1560427159912047154
+    second: Warlock-Sheet_65
+  - first:
+      213: -7377125656878135329
+    second: Warlock-Sheet_66
+  - first:
+      213: -1561902138307345951
+    second: Warlock-Sheet_67
+  - first:
+      213: 6449844712005065135
+    second: Warlock-Sheet_68
+  - first:
+      213: 8642385991157078910
+    second: Warlock-Sheet_69
+  - first:
+      213: -6597552558670479909
+    second: Warlock-Sheet_70
+  - first:
+      213: -6396827903858011875
+    second: Warlock-Sheet_71
+  - first:
+      213: 4221099497726193433
+    second: Warlock-Sheet_72
+  - first:
+      213: -6809555106658647269
+    second: Warlock-Sheet_73
+  - first:
+      213: 5262806411669161773
+    second: Warlock-Sheet_74
+  - first:
+      213: 2489387028337546579
+    second: Warlock-Sheet_75
+  - first:
+      213: 1637895111890287480
+    second: Warlock-Sheet_76
+  - first:
+      213: 4393945370445543719
+    second: Warlock-Sheet_77
+  - first:
+      213: 2559997564401375157
+    second: Warlock-Sheet_78
+  - first:
+      213: 8233253972318879907
+    second: Warlock-Sheet_79
+  - first:
+      213: -5029979979495809376
+    second: Warlock-Sheet_80
+  - first:
+      213: 4607298268431764900
+    second: Warlock-Sheet_81
+  - first:
+      213: -8851099679483050733
+    second: Warlock-Sheet_82
+  - first:
+      213: 109036121884535574
+    second: Warlock-Sheet_83
+  - first:
+      213: -607812335608247502
+    second: Warlock-Sheet_84
+  - first:
+      213: -2753609208310171835
+    second: Warlock-Sheet_85
+  - first:
+      213: -9094783386840332355
+    second: Warlock-Sheet_86
+  - first:
+      213: 1667155499297191348
+    second: Warlock-Sheet_87
+  - first:
+      213: -4423283216719029432
+    second: Warlock-Sheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warlock-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a56e51cd4c6c570800000000000000
+      internalID: 8486686997365545564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 223
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a6a80ebfaf6dae0800000000000000
+      internalID: -1524755464107431424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db58772a5f34fb4e0800000000000000
+      internalID: -1963776190238456387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684cb70bf60634260800000000000000
+      internalID: 7080609071975089286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 236
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bba7ea188c975e0800000000000000
+      internalID: -1911276107538449555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3353366d9768eb380800000000000000
+      internalID: -8953571151319976653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 236
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9d8930a93393a0800000000000000
+      internalID: -6659916063627699203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 191
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab75e2e9b3e2920d0800000000000000
+      internalID: -3447173206183618630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 191
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3d33d87e9189d0800000000000000
+      internalID: -2773761653706245007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 191
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcdd612d799e30f0800000000000000
+      internalID: -1135301293339976460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 191
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e10da1b3d0a6c50800000000000000
+      internalID: 6659149546524778047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ceee20da15af760800000000000000
+      internalID: 7492390733604645999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5137ae87c00710800000000000000
+      internalID: 1657544078376655375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d209185bf4d5fb0800000000000000
+      internalID: -4657478798649840319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 159
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49330ef40bb1d4c20800000000000000
+      internalID: 3192238154943837076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e345e7f7c674b0800000000000000
+      internalID: -5442943232113384171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ff3ba1ea64d10a0800000000000000
+      internalID: -6909288539730215130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 172
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089a82f460730270800000000000000
+      internalID: 8215533724122126349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 172
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3007d87c2cbacf0800000000000000
+      internalID: -239883992806980683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 172
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e6654d55fdce770800000000000000
+      internalID: 8641527344744787531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 127
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ea2d491738eab0800000000000000
+      internalID: -4978668806249717474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 127
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff60c44b3334bca0800000000000000
+      internalID: -6002116073728479240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 127
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed1ac1edadee2b00800000000000000
+      internalID: 805842714419142127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 127
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f614aa90c19490800000000000000
+      internalID: -7741194514062708611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e0989c841a277e0800000000000000
+      internalID: -1769174369612263906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4363bf538a325b0800000000000000
+      internalID: -5394282978858355477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 139
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ab3971e4b70eb0800000000000000
+      internalID: -4753632001171674866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 139
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f321a5ca43b5bdc0800000000000000
+      internalID: -3623793191425072143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbc133121f478ae0800000000000000
+      internalID: -1547181007928439820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e7874e936691a60800000000000000
+      internalID: 7645254241270398544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 139
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6955a582b8153d0800000000000000
+      internalID: -3219639253162682632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36d04d258ef56970800000000000000
+      internalID: 8747677699180385850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc263c25c346790800000000000000
+      internalID: -7537833550148351211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0167d231fb5bf8f0800000000000000
+      internalID: -505709441650826996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 95
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae087bb2f758fa10800000000000000
+      internalID: 1943399939249278632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 95
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c623cf8b5162360800000000000000
+      internalID: 7144421743119199236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 95
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c793a67fba75ab0b0800000000000000
+      internalID: -5712156781264094852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 95
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd0933bb626a7e70800000000000000
+      internalID: 9113705010645503420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 95
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43403dfaf72535710800000000000000
+      internalID: 1680777794303493172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 95
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce382691b91ade10800000000000000
+      internalID: 2223117616579886793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 95
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b12d18fbf16c25f0800000000000000
+      internalID: -780140900614594125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 95
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4876083ead8415ae0800000000000000
+      internalID: -1562387490763937916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea612653c3a19990800000000000000
+      internalID: -7380938254924551444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eb947646473efe0800000000000000
+      internalID: -1160956304353018306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa1e4445b006480800000000000000
+      internalID: -8908107606378042844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32fa0f7306c2310800000000000000
+      internalID: 1381584979073377184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ba5e6c0938af490800000000000000
+      internalID: -7711706754083083437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c340017e8ea20840800000000000000
+      internalID: 5188901647488664515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 108
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aa4425cdd806110800000000000000
+      internalID: 1252156673821551187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f3e38ab61335dc0800000000000000
+      internalID: -3651520534413426819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 63
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e1131ae6e54180800000000000000
+      internalID: -9131638776407137753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 63
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dfcd90acf4de5c0800000000000000
+      internalID: -4184600749589856935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 63
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6766889aabc01f60800000000000000
+      internalID: 8003120471401195370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcbd495da6e2dd60800000000000000
+      internalID: 7913641127445380272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1baaf9010974890800000000000000
+      internalID: -7473846655525408326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd2b0322175b0180800000000000000
+      internalID: -9148122482664067629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad919c725c452b30800000000000000
+      internalID: 4261896539536989605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca864b1d78f9dbf0800000000000000
+      internalID: -298934684031219002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c9eebfa64e930a0800000000000000
+      internalID: -6901233805824189370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e1ce98245c33d80800000000000000
+      internalID: -8272051200977002939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b52174f69449090800000000000000
+      internalID: -8028711493412168921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f39de1f14b446d10800000000000000
+      internalID: 2117900471374812147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 46
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975fadfd24767b100800000000000000
+      internalID: 123681051697149305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 35
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084c2b7c5f0d53e0800000000000000
+      internalID: -2063476164387911679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 44
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70570212a90cf20800000000000000
+      internalID: 3440919582380197887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 32
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ed640c30c7a510800000000000000
+      internalID: 1560427159912047154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7cb5efc4f2f9990800000000000000
+      internalID: -7377125656878135329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e18440d742035ae0800000000000000
+      internalID: -1561902138307345951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa95e73c793728950800000000000000
+      internalID: 6449844712005065135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdab6054cefe770800000000000000
+      internalID: 8642385991157078910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddf97937e8c074a0800000000000000
+      internalID: -6597552558670479909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 33
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d119c3dc9e6e937a0800000000000000
+      internalID: -6396827903858011875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 31
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fac8bf0ab549a30800000000000000
+      internalID: 4221099497726193433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 31
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b130a2585b99f71a0800000000000000
+      internalID: -6809555106658647269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 31
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2740314c8e390940800000000000000
+      internalID: 5262806411669161773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 31
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355568c10541c8220800000000000000
+      internalID: 2489387028337546579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb1932de8fab610800000000000000
+      internalID: 1637895111890287480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729f0e7c80e6afc30800000000000000
+      internalID: 4393945370445543719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7520ca830f68320800000000000000
+      internalID: 2559997564401375157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a004adbdd4624270800000000000000
+      internalID: 8233253972318879907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae53decbdbe13ab0800000000000000
+      internalID: -5029979979495809376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adc5285d5960ff30800000000000000
+      internalID: 4607298268431764900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c6d49cb39a2580800000000000000
+      internalID: -8851099679483050733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b2d9076cf538100800000000000000
+      internalID: 109036121884535574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b48fda6ed9097f0800000000000000
+      internalID: -607812335608247502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477d68a30739c9d0800000000000000
+      internalID: -2753609208310171835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7024622b6d8c180800000000000000
+      internalID: -9094783386840332355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 13
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b2f8f71de22710800000000000000
+      internalID: 1667155499297191348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warlock-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd38699575d92c0800000000000000
+      internalID: -4423283216719029432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Warlock-Sheet_0: 8486686997365545564
+      Warlock-Sheet_1: -1524755464107431424
+      Warlock-Sheet_10: 6659149546524778047
+      Warlock-Sheet_11: 7492390733604645999
+      Warlock-Sheet_12: 1657544078376655375
+      Warlock-Sheet_13: -4657478798649840319
+      Warlock-Sheet_14: 3192238154943837076
+      Warlock-Sheet_15: -5442943232113384171
+      Warlock-Sheet_16: -6909288539730215130
+      Warlock-Sheet_17: 8215533724122126349
+      Warlock-Sheet_18: -239883992806980683
+      Warlock-Sheet_19: 8641527344744787531
+      Warlock-Sheet_2: -1963776190238456387
+      Warlock-Sheet_20: -4978668806249717474
+      Warlock-Sheet_21: -6002116073728479240
+      Warlock-Sheet_22: 805842714419142127
+      Warlock-Sheet_23: -7741194514062708611
+      Warlock-Sheet_24: -1769174369612263906
+      Warlock-Sheet_25: -5394282978858355477
+      Warlock-Sheet_26: -4753632001171674866
+      Warlock-Sheet_27: -3623793191425072143
+      Warlock-Sheet_28: -1547181007928439820
+      Warlock-Sheet_29: 7645254241270398544
+      Warlock-Sheet_3: 7080609071975089286
+      Warlock-Sheet_30: -3219639253162682632
+      Warlock-Sheet_31: 8747677699180385850
+      Warlock-Sheet_32: -7537833550148351211
+      Warlock-Sheet_33: -505709441650826996
+      Warlock-Sheet_34: 1943399939249278632
+      Warlock-Sheet_35: 7144421743119199236
+      Warlock-Sheet_36: -5712156781264094852
+      Warlock-Sheet_37: 9113705010645503420
+      Warlock-Sheet_38: 1680777794303493172
+      Warlock-Sheet_39: 2223117616579886793
+      Warlock-Sheet_4: -1911276107538449555
+      Warlock-Sheet_40: -780140900614594125
+      Warlock-Sheet_41: -1562387490763937916
+      Warlock-Sheet_42: -7380938254924551444
+      Warlock-Sheet_43: -1160956304353018306
+      Warlock-Sheet_44: -8908107606378042844
+      Warlock-Sheet_45: 1381584979073377184
+      Warlock-Sheet_46: -7711706754083083437
+      Warlock-Sheet_47: 5188901647488664515
+      Warlock-Sheet_48: 1252156673821551187
+      Warlock-Sheet_49: -3651520534413426819
+      Warlock-Sheet_5: -8953571151319976653
+      Warlock-Sheet_50: -9131638776407137753
+      Warlock-Sheet_51: -4184600749589856935
+      Warlock-Sheet_52: 8003120471401195370
+      Warlock-Sheet_53: 7913641127445380272
+      Warlock-Sheet_54: -7473846655525408326
+      Warlock-Sheet_55: -9148122482664067629
+      Warlock-Sheet_56: 4261896539536989605
+      Warlock-Sheet_57: -298934684031219002
+      Warlock-Sheet_58: -6901233805824189370
+      Warlock-Sheet_59: -8272051200977002939
+      Warlock-Sheet_6: -6659916063627699203
+      Warlock-Sheet_60: -8028711493412168921
+      Warlock-Sheet_61: 2117900471374812147
+      Warlock-Sheet_62: 123681051697149305
+      Warlock-Sheet_63: -2063476164387911679
+      Warlock-Sheet_64: 3440919582380197887
+      Warlock-Sheet_65: 1560427159912047154
+      Warlock-Sheet_66: -7377125656878135329
+      Warlock-Sheet_67: -1561902138307345951
+      Warlock-Sheet_68: 6449844712005065135
+      Warlock-Sheet_69: 8642385991157078910
+      Warlock-Sheet_7: -3447173206183618630
+      Warlock-Sheet_70: -6597552558670479909
+      Warlock-Sheet_71: -6396827903858011875
+      Warlock-Sheet_72: 4221099497726193433
+      Warlock-Sheet_73: -6809555106658647269
+      Warlock-Sheet_74: 5262806411669161773
+      Warlock-Sheet_75: 2489387028337546579
+      Warlock-Sheet_76: 1637895111890287480
+      Warlock-Sheet_77: 4393945370445543719
+      Warlock-Sheet_78: 2559997564401375157
+      Warlock-Sheet_79: 8233253972318879907
+      Warlock-Sheet_8: -2773761653706245007
+      Warlock-Sheet_80: -5029979979495809376
+      Warlock-Sheet_81: 4607298268431764900
+      Warlock-Sheet_82: -8851099679483050733
+      Warlock-Sheet_83: 109036121884535574
+      Warlock-Sheet_84: -607812335608247502
+      Warlock-Sheet_85: -2753609208310171835
+      Warlock-Sheet_86: -9094783386840332355
+      Warlock-Sheet_87: 1667155499297191348
+      Warlock-Sheet_88: -4423283216719029432
+      Warlock-Sheet_9: -1135301293339976460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
